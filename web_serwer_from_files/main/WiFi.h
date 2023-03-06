@@ -9,8 +9,8 @@
 #include "lwip/err.h"
 #include "lwip/sys.h"
 
-#define WIFI_SSID                   "WIRE8BIS_G"                //"Orange_Swiatlowod_DB80_Ext"
-#define WIFI_PASS                   "Kojano5286Q@TS!"           //"NN4UY7DDF59X"
+#define WIFI_SSID                   "wifi_ssid"          
+#define WIFI_PASS                   "wifi_pass"          
 #define WIFI_TRY_TO_CONNECT_RETRY   5
 
 //Macros for WiFi connection status info
